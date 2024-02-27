@@ -6,19 +6,13 @@ pinned = false
 image = "bild-von-migo-und-pit-vom-intrview.jpg"
 description = "\n"
 +++
-
-
 {{<lead>}}
 
 Die zwei Hip-Hop Rapper Pit und Migo, sitzen im Restaurant «Sous Le Pont» und trinken ein Gläschen Sirup. Die Stimmung ist noch ruhig hier. Doch nur einige Tage später, wird man im Dachstock, gleich nebenan die Bässe wummern hören. Pit und Migo sind zwei, der drei Mitglieder aus der Band FHG. Neben dem Rap Kollektiv «Chaostruppe», ist FHG die bekannteste auf Mundart rappende Gruppe in Bern. Migo und Pit sind die Rapper FHG’s aber gleichzeitig auch ein Teil der «Chaostruppe». Trotz der ganzen Planung für ihr Jubiläumskonzert im Dachstock, nehmen sie sich die Zeit, uns ihre Geschichte zu erzählen und wieso dieser Ort hier für sie so besonders ist.
 
 {{</lead>}}
 
-
-
 ![Pit und Migo aus der Musikgruppe FHG sind fasziniert von einem Buch mit dem Titel "Das Magische Auge" mit optischen Illusionen](bild-von-migo-und-pit-vom-intrview.jpg)
-
-
 
 ### In einer Woche ist das 10-jähriges Jubiläum von FHG: Wie ist die «Fischermätteli Hood Gang» damals entstanden?
 
@@ -70,6 +64,6 @@ Im Nachhinein würden wir manchmal etwas besser überlegen. Vor allem Aktionen, 
 
 
 
-### Was würdet ihr einer anstrebender Musikerin mit auf den Weg geben? 
+### Was würdet ihr einer anstrebender Musikerin mit auf den Weg geben?
 
 Habt Spass und lasst euch nicht verunsichern! Zuerst ist es immer komisch, die eigene Stimme zu hören und man findet nicht direkt coole Beats, aber man muss daran denken; es ist wie jedes andere Hobby, es braucht Training und Leidenschaft, um irgendwo hinzukommen. Es ist wichtig, dass man Sorge zu sich trägt und sich nicht verbiegen lässt. Denn man zahlt einen hohen Preis, wenn man etwas macht, dass man eigentlich gar nicht will. «Ich würde möglichst kompromisslos sein und wirklich auf Trends schei\*\*en», so Migo. Ich finde, man sollte immer im Auge behalten, dass es cool wäre, wenn die Menschen den Song auch noch in fünf Jahren hören möchten.
