@@ -46,8 +46,6 @@ Heute gehen die jungen Menschen in den Dachstock, um ihre Lieblingsband FHG zu h
 
 <!--EndFragment-->
 
-```
-infobox
-owz ist eine Gruppe die sich mit der Kunst des Graffitti sprayens der Züge 
-auseinandergesetzt hat. leider sind die züge schnell wider sauber gemacht
-```
+
+
+{{<box>}}
