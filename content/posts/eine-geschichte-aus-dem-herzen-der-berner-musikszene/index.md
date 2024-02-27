@@ -6,7 +6,15 @@ pinned = false
 image = "bild-von-migo-und-pit-vom-intrview.jpg"
 description = "\n"
 +++
+
+
+{{<lead>}}
+
 Die zwei Hip-Hop Rapper Pit und Migo, sitzen im Restaurant «Sous Le Pont» und trinken ein Gläschen Sirup. Die Stimmung ist noch ruhig hier. Doch nur einige Tage später, wird man im Dachstock, gleich nebenan die Bässe wummern hören. Pit und Migo sind zwei, der drei Mitglieder aus der Band FHG. Neben dem Rap Kollektiv «Chaostruppe», ist FHG die bekannteste auf Mundart rappende Gruppe in Bern. Migo und Pit sind die Rapper FHG’s aber gleichzeitig auch ein Teil der «Chaostruppe». Trotz der ganzen Planung für ihr Jubiläumskonzert im Dachstock, nehmen sie sich die Zeit, uns ihre Geschichte zu erzählen und wieso dieser Ort hier für sie so besonders ist.
+
+{{</lead>}}
+
+
 
 ![Pit und Migo aus der Musikgruppe FHG sind fasziniert von einem Buch mit dem Titel "Das Magische Auge" mit optischen Illusionen](bild-von-migo-und-pit-vom-intrview.jpg)
 
