@@ -71,7 +71,15 @@ Als wir Pit und Migo beim Interview fragen, wie die Reaktionen bei ihnen im Umfe
 Am Freitagabend, dem 15.12.2023, war auf dem Vorplatz der Alten Reitschule ordentlich was los. Menschen aus verschiedensten Orten Berns fanden sich zusammen und warteten ungeduldig darauf, dass der Stundenzeiger der Uhr endlich auf 21:00 wechselt und die Türen des Dachstocks geöffnet werden. Langsam stellten sich immer mehr Leute in die Reihe, um ihre Tickets vorzuweisen. Im Dachstock war es etwas frisch, kühl und leer. Doch je mehr Leute kamen, desto voller und heisser wurde es. Der DJ spielte seine Partymusik, und es wurde immer stickiger, während die Menschen sich mit Alkohol versorgten. Die Luft nahm nach und nach den Duft von Tabak und Marihuana an. Um 22:30 Uhr, als die Atmosphäre perfekt war, wurde die Musik leiser und die Menschenmenge lauschte gebannt der Stille. Da tanzte sich der Vor-Act, Etoclit, zu einem ihrer Tracks auf die Bühne. Für eine Stunde durften wir gebannt ihrer Musik lauschen. Alle waren traurig, dass ihre Show schon zu Ende war, doch gleichzeitig auch aufgeregt und erfreut, da man wusste, dass der Auftritt des Haupt-Acts jetzt ganz nahe war. 
 Dann war es endlich so weit, FHG kam auf die Bühne. Sie warfen Zeichnungen, Essen und Getränke ins Publikum und beschenkten alle. Dazu rappten sie natürlich ihre Songs. Als das Konzert zu Ende war, deckten sich alle noch einmal mit Getränken ein, wobei der DJ noch bis in die frühen Morgenstunden  seine Kunst beweisen durfte.
 
-«Die Reithalle ist mein zweites Zuhause, ich bin seit meiner Jugend regelmässig hier!»
+
+
+
+
+
+
+### «Die Reithalle ist mein zweites Zuhause, ich bin seit meiner Jugend regelmässig hier!»
+
+#### 
 (Zitat: Migo)
 
 Die Gründer von FHG haben alle eine unterschiedliche persönliche Verbindung zur Reithalle. So hat zum Beispiel Pit einen Grossteil seiner Jugend auf dem Vorplatz verbracht. Wie Pit und Migo beim Interview erzählen, gingen sie früher in den Dachstock, um zur Musik ihrer Lieblingskünstler*innen abzutanzen. Als später FHG entstand, war es für sie ein grosser Traum, auch einmal im Dachstock auftreten zu können. Heute gehen viele überwiegend junge Menschen in den Dachstock, um ihre Lieblingsband FHG zu hören.
