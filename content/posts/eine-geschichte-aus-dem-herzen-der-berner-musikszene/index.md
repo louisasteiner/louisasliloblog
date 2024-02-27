@@ -32,6 +32,10 @@ Das ist einfach die Fischermätteli Hood Gang! Wir sind zufällig darauf gestoss
 
 Letztes Jahr im Dachstock war es mega mega schön. Aber meiner Meinung nach, ist es gar nicht ein spezifisches Konzert, sondern mehr, dass wir diesen Weg des Spasses verfolgen. Ich glaube das ist sehr wertvoll und gibt uns viel Kraft. Der Spass ist ein bisschen wie unser Benzin. Es ist uns auch eine Ehre, dass all diese Leute unsere Musik hören wollen und an unsere Konzerte kommen. Es gibt einfach immer sehr viele schöne Interaktionen und Verknüpfungen, die entstehen.
 
+
+
+
+
 ### Kann man als Künstler*in der Schweiz von der Musik leben?
 
 Wir verdienen tendenziell immer weniger. Wir arbeiten auch sehr unregelmässig: Man arbeitet an einem Album, an den Songs, aber bis sie draussen sind, vergehen zwei Jahre. Danach spielt man einige Konzerte, bekommt dort ein bisschen Gage und kriegt dann noch ein Jahr später ein Visa. (Das sind Beiträge, die gezahlt werden, wenn deine Musik irgendwo gespielt wird.) Nochmal ein Jahr darauf kriegt man dann das Geld dafür. Es ist gar nicht planbar, ob wenn ich jetzt etwas schreibe, ich vielleicht in ein paar Jahren etwas daran verdienen werde. Im Moment funktioniert es für mich. Zu sagen, dass man davon leben kann, wäre aber trotzdem gelogen.
