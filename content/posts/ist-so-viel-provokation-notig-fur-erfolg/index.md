@@ -3,7 +3,7 @@ title = "Geld oder Gefühl: Der Spagat zwischen Kunst und Kommerz in der Musikwe
 date = "2024-02-14"
 draft = false
 pinned = false
-image = "bild-von-migo-und-pit-vom-intrview.jpg"
+image = "graffiti-zug.jpg"
 description = "\n\n"
 footnotes = "infobox\n\nzur chaostruppe oder reitschule oder so zu owz"
 +++
@@ -49,7 +49,7 @@ Neben Songs, die aus lustigen Ideen entstanden sind, haben sie auch viele politi
 
 
 
-
+![Hip-Hop Rapper versprayen BLS-Fahrzeuge](graffiti-zug.jpg)
 
 
 
