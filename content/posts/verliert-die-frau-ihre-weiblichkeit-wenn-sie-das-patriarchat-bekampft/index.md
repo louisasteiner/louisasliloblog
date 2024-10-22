@@ -1,5 +1,5 @@
 +++
-title = "## Verliert die Frau ihre Weiblichkeit, wenn sie das Patriarchat bekämpft?"
+title = "Verliert die Frau ihre Weiblichkeit, wenn sie das Patriarchat bekämpft?"
 date = "2024-10-22"
 draft = false
 pinned = false
